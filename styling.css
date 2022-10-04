@@ -73,6 +73,15 @@ body {
   padding: 20px 40px;
 }
 
+i{
+  font-size: 30px;
+  cursor: pointer;
+  position: absolute;
+  top: 5%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
 .container {
   max-width: 1200px;
 }
